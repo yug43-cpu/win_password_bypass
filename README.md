@@ -1,4 +1,4 @@
-# Documentation: Windows Local Password Reset Bypass (Utilman Method)
+# Documentation: Windows Local Password Reset Bypass  (Utilman Method)
 
 ## Overview
 This document outlines a local privilege escalation technique used to bypass the Windows lock screen and reset a local user account password. This method works by replacing the Windows Accessibility feature executable (`Utilman.exe`) with the Command Prompt (`cmd.exe`) via the Windows Recovery Environment (WinRE). 
